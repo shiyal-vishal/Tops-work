@@ -1,0 +1,151 @@
+﻿txn_id,txn_date,sender_handle,merchant,amount_inr,status,remarks,device_note
+UPI100001,2026-02-27,riya@fakepay,BookNest,3095.13,FAILED,Refund initiated,Android 14 / Pixel
+UPI100002,2026-10-07,arjun@fakepay,Mobile Recharge,5300.04,SUCCESS,Payment completed,iOS 18 / iPhone
+UPI100003,2026-04-30,riya@fakepay,TravelGo,2521.52,REFUNDED,Merchant payment,Web / Chrome
+UPI100004,2026-05-23,riya@fakepay,Cafe Orbit,8740.33,PENDING,UPI transfer,iOS 18 / iPhone
+UPI100005,2026-04-21,dev@fakepay,Metro Fuel,1200.15,SUCCESS,UPI transfer,Android 13 / Samsung
+UPI100006,2026-05-16,riya@fakepay,StyleHub,6723.72,REFUNDED,Payment completed,Android 14 / OnePlus
+UPI100007,2026-05-31,dev@fakepay,Mobile Recharge,2439.95,SUCCESS,Payment completed,iOS 17 / iPhone
+UPI100008,2026-04-27,anaya@fakepay,Metro Fuel,10697.98,SUCCESS,Order settlement,Android 13 / Samsung
+UPI100009,2026-08-21,dev@fakepay,Cafe Orbit,4655.6,FAILED,Refund initiated,Android 13 / Samsung
+UPI100010,2026-02-06,meera@fakepay,TravelGo,9126.27,FAILED,Order settlement,Web / Chrome
+UPI100011,2026-05-19,kabir@fakepay,City Utilities,10542.72,SUCCESS,Merchant payment,Android 14 / Pixel
+UPI100012,2026-06-11,isha@fakepay,BookNest,869.38,PENDING,Merchant payment,iOS 17 / iPhone
+UPI100013,2026-09-13,isha@fakepay,StyleHub,1824.47,FAILED,Merchant payment,iOS 17 / iPhone
+UPI100014,2026-10-15,anaya@fakepay,Mobile Recharge,5381.14,REFUNDED,UPI transfer,iOS 18 / iPhone
+UPI100015,2026-03-12,rohan@fakepay,Metro Fuel,9458.27,SUCCESS,Merchant payment,iOS 17 / iPhone
+UPI100016,2026-03-23,isha@fakepay,Mobile Recharge,836.24,REFUNDED,Utility payment,Web / Chrome
+UPI100017,2026-09-28,anaya@fakepay,TravelGo,10766.01,SUCCESS,Refund initiated,iOS 17 / iPhone
+UPI100018,2026-02-28,anaya@fakepay,City Utilities,1434.38,REFUNDED,Merchant payment,Web / Chrome
+UPI100019,2026-01-02,anaya@fakepay,TravelGo,9535.24,SUCCESS,Payment pending,iOS 17 / iPhone
+UPI100020,2026-06-02,kabir@fakepay,Cafe Orbit,4702.1,FAILED,Utility payment,Android 14 / OnePlus
+UPI100021,2026-01-01,dev@fakepay,StyleHub,287.58,PENDING,Payment pending,Android 13 / Samsung
+UPI100022,2026-05-03,riya@fakepay,Quick Pharmacy,10980.61,SUCCESS,Payment completed,iOS 17 / iPhone
+UPI100023,2026-09-06,arjun@fakepay,TravelGo,9583.47,FAILED,Refund initiated,Web / Chrome
+UPI100024,2026-10-09,meera@fakepay,BookNest,6617.18,REFUNDED,Merchant payment,Android 14 / OnePlus
+UPI100025,2026-04-13,anaya@fakepay,FoodDash,12439.59,PENDING,Order settlement,Android 14 / OnePlus
+UPI100026,2026-08-20,arjun@fakepay,Quick Pharmacy,2843.61,PENDING,Payment completed,Android 14 / OnePlus
+UPI100027,2026-10-11,kabir@fakepay,Mobile Recharge,2787.81,SUCCESS,Refund initiated,iOS 17 / iPhone
+UPI100028,2026-01-31,kabir@fakepay,Metro Fuel,11322.01,PENDING,Payment completed,Android 14 / OnePlus
+UPI100029,2026-05-02,anaya@fakepay,StyleHub,2713.32,FAILED,Refund initiated,Android 14 / OnePlus
+UPI100030,2026-10-23,rohan@fakepay,Quick Pharmacy,9817.43,REFUNDED,Merchant payment,Android 14 / Pixel
+UPI100031,2026-02-19,isha@fakepay,City Utilities,5320.67,REFUNDED,Payment pending,iOS 17 / iPhone
+UPI100032,2026-01-28,arjun@fakepay,FreshMart,5059.65,PENDING,Payment pending,Android 14 / Pixel
+UPI100033,2026-05-08,kabir@fakepay,Quick Pharmacy,6724.44,FAILED,Order settlement,iOS 18 / iPhone
+UPI100034,2026-05-23,rohan@fakepay,Quick Pharmacy,10936.72,SUCCESS,Order settlement,Android 14 / OnePlus
+UPI100035,2026-02-20,riya@fakepay,TravelGo,10457.72,SUCCESS,Payment pending,iOS 18 / iPhone
+UPI100036,2026-03-27,isha@fakepay,StyleHub,6040.32,REFUNDED,Payment completed,iOS 18 / iPhone
+UPI100037,2026-07-14,riya@fakepay,FoodDash,3348.1,REFUNDED,UPI transfer,Web / Chrome
+UPI100038,2026-10-12,rohan@fakepay,Cafe Orbit,2410.18,FAILED,Payment completed,Android 14 / OnePlus
+UPI100039,2026-10-05,riya@fakepay,City Utilities,756.99,REFUNDED,Utility payment,Android 14 / OnePlus
+UPI100040,2026-03-22,riya@fakepay,TravelGo,1042.79,FAILED,Payment completed,Android 14 / OnePlus
+UPI100041,2026-02-04,kabir@fakepay,FoodDash,1538.19,FAILED,Utility payment,Android 14 / OnePlus
+UPI100042,2026-01-21,arjun@fakepay,FoodDash,8232.58,PENDING,UPI transfer,iOS 18 / iPhone
+UPI100043,2026-06-10,kabir@fakepay,BookNest,4974.51,PENDING,Order settlement,Android 13 / Samsung
+UPI100044,2026-02-07,riya@fakepay,StyleHub,7781.54,SUCCESS,Payment completed,Android 14 / OnePlus
+UPI100045,2026-04-20,anaya@fakepay,Cafe Orbit,11668.75,SUCCESS,Merchant payment,Android 13 / Samsung
+UPI100046,2026-05-26,meera@fakepay,StyleHub,10429.29,PENDING,Utility payment,iOS 17 / iPhone
+UPI100047,2026-09-28,riya@fakepay,TravelGo,3773.76,SUCCESS,Merchant payment,Android 13 / Samsung
+UPI100048,2026-03-01,arjun@fakepay,TravelGo,1981.1,PENDING,Utility payment,iOS 18 / iPhone
+UPI100049,2026-06-25,kabir@fakepay,BookNest,6339.87,PENDING,Payment pending,Android 14 / Pixel
+UPI100050,2026-02-17,isha@fakepay,BookNest,594.1,PENDING,Payment pending,iOS 18 / iPhone
+UPI100051,2026-05-15,meera@fakepay,StyleHub,6916.18,REFUNDED,Utility payment,Android 14 / Pixel
+UPI100052,2026-02-27,arjun@fakepay,Cafe Orbit,6840.33,PENDING,Utility payment,Android 14 / OnePlus
+UPI100053,2026-03-17,isha@fakepay,Cafe Orbit,565.98,PENDING,Payment pending,Android 14 / Pixel
+UPI100054,2026-07-03,kabir@fakepay,Quick Pharmacy,8351.66,PENDING,Payment pending,Android 14 / OnePlus
+UPI100055,2026-07-28,meera@fakepay,Quick Pharmacy,10813.66,FAILED,Order settlement,Android 14 / Pixel
+UPI100056,2026-04-02,dev@fakepay,FoodDash,10036.84,FAILED,UPI transfer,iOS 18 / iPhone
+UPI100057,2026-02-25,isha@fakepay,FreshMart,10738.78,FAILED,Merchant payment,Web / Chrome
+UPI100058,2026-06-29,anaya@fakepay,Quick Pharmacy,2821.51,FAILED,Order settlement,Android 13 / Samsung
+UPI100059,2026-05-23,arjun@fakepay,BookNest,4418.53,REFUNDED,Refund initiated,Android 14 / OnePlus
+UPI100060,2026-06-19,riya@fakepay,Metro Fuel,10968.51,PENDING,Merchant payment,Android 14 / OnePlus
+UPI100061,2026-05-16,riya@fakepay,Metro Fuel,7475.29,PENDING,Refund initiated,Android 13 / Samsung
+UPI100062,2026-08-12,arjun@fakepay,FoodDash,11248.33,FAILED,UPI transfer,Android 14 / Pixel
+UPI100063,2026-08-12,riya@fakepay,TravelGo,11573.04,FAILED,UPI transfer,Web / Chrome
+UPI100064,2026-02-05,dev@fakepay,Mobile Recharge,3954.82,SUCCESS,Refund initiated,Android 13 / Samsung
+UPI100065,2026-09-17,anaya@fakepay,FoodDash,4107.61,PENDING,Utility payment,iOS 18 / iPhone
+UPI100066,2026-04-09,isha@fakepay,FoodDash,8481.0,FAILED,Utility payment,Android 14 / OnePlus
+UPI100067,2026-06-04,isha@fakepay,TravelGo,10429.05,PENDING,UPI transfer,iOS 18 / iPhone
+UPI100068,2026-08-09,dev@fakepay,StyleHub,5547.44,FAILED,Utility payment,Web / Chrome
+UPI100069,2026-03-28,arjun@fakepay,BookNest,6464.95,PENDING,Payment completed,iOS 18 / iPhone
+UPI100070,2026-06-08,kabir@fakepay,Quick Pharmacy,1880.29,SUCCESS,Merchant payment,Web / Chrome
+UPI100071,2026-02-07,rohan@fakepay,FoodDash,11081.84,FAILED,Refund initiated,iOS 17 / iPhone
+UPI100072,2026-07-16,rohan@fakepay,FoodDash,3083.83,SUCCESS,Payment pending,Android 14 / Pixel
+UPI100073,2026-08-06,kabir@fakepay,Cafe Orbit,10060.19,REFUNDED,Payment completed,Android 14 / OnePlus
+UPI100074,2026-05-08,arjun@fakepay,StyleHub,1705.74,REFUNDED,Refund initiated,Android 14 / OnePlus
+UPI100075,2026-10-14,dev@fakepay,StyleHub,7675.58,REFUNDED,Payment pending,Android 14 / OnePlus
+UPI100076,2026-08-17,meera@fakepay,StyleHub,5650.62,FAILED,Payment pending,iOS 17 / iPhone
+UPI100077,2026-05-22,rohan@fakepay,Quick Pharmacy,3465.11,SUCCESS,Refund initiated,Android 13 / Samsung
+UPI100078,2026-05-01,anaya@fakepay,City Utilities,4026.98,SUCCESS,Merchant payment,iOS 18 / iPhone
+UPI100079,2026-04-29,isha@fakepay,Cafe Orbit,8843.45,SUCCESS,Order settlement,Web / Chrome
+UPI100080,2026-06-19,rohan@fakepay,FoodDash,820.52,REFUNDED,Order settlement,Android 14 / OnePlus
+UPI100081,2026-01-11,isha@fakepay,StyleHub,118.44,PENDING,UPI transfer,Web / Chrome
+UPI100082,2026-08-03,kabir@fakepay,StyleHub,2777.9,REFUNDED,Order settlement,Android 14 / Pixel
+UPI100083,2026-07-19,dev@fakepay,FoodDash,9064.68,REFUNDED,Merchant payment,Android 14 / OnePlus
+UPI100084,2026-10-01,riya@fakepay,FoodDash,7417.02,SUCCESS,Payment completed,iOS 17 / iPhone
+UPI100085,2026-08-08,meera@fakepay,StyleHub,2308.44,PENDING,Order settlement,Android 13 / Samsung
+UPI100086,2026-04-19,rohan@fakepay,City Utilities,4248.57,REFUNDED,UPI transfer,Web / Chrome
+UPI100087,2026-05-10,arjun@fakepay,StyleHub,286.42,SUCCESS,UPI transfer,iOS 18 / iPhone
+UPI100088,2026-02-05,riya@fakepay,FreshMart,11872.41,FAILED,Payment pending,Android 14 / Pixel
+UPI100089,2026-03-20,kabir@fakepay,Cafe Orbit,5943.2,SUCCESS,Utility payment,iOS 18 / iPhone
+UPI100090,2026-08-27,anaya@fakepay,City Utilities,2134.81,SUCCESS,Payment pending,iOS 18 / iPhone
+UPI100091,2026-06-09,arjun@fakepay,Mobile Recharge,364.82,PENDING,Utility payment,iOS 17 / iPhone
+UPI100092,2026-07-12,isha@fakepay,Quick Pharmacy,991.54,FAILED,Payment completed,iOS 17 / iPhone
+UPI100093,2026-06-04,arjun@fakepay,Mobile Recharge,9792.72,PENDING,Utility payment,Web / Chrome
+UPI100094,2026-07-09,arjun@fakepay,TravelGo,8110.15,SUCCESS,Payment pending,Web / Chrome
+UPI100095,2026-09-08,arjun@fakepay,FoodDash,12011.61,REFUNDED,Refund initiated,iOS 18 / iPhone
+UPI100096,2026-08-11,meera@fakepay,TravelGo,12069.98,PENDING,Utility payment,Android 14 / OnePlus
+UPI100097,2026-09-05,rohan@fakepay,FoodDash,10329.52,PENDING,UPI transfer,iOS 18 / iPhone
+UPI100098,2026-02-14,anaya@fakepay,StyleHub,3082.32,REFUNDED,Utility payment,Android 14 / OnePlus
+UPI100099,2026-07-14,dev@fakepay,FreshMart,6201.59,PENDING,Merchant payment,Web / Chrome
+UPI100100,2026-04-19,dev@fakepay,BookNest,4283.92,PENDING,Utility payment,Android 14 / Pixel
+UPI100101,2026-09-22,kabir@fakepay,Metro Fuel,3051.09,REFUNDED,Order settlement,Android 14 / OnePlus
+UPI100102,2026-05-04,rohan@fakepay,StyleHub,5627.01,SUCCESS,Payment completed,Android 13 / Samsung
+UPI100103,2026-04-24,isha@fakepay,Quick Pharmacy,3858.8,PENDING,Order settlement,Android 14 / OnePlus
+UPI100104,2026-09-29,dev@fakepay,FoodDash,12458.04,PENDING,UPI transfer,iOS 17 / iPhone
+UPI100105,2026-08-21,anaya@fakepay,BookNest,3176.23,SUCCESS,Refund initiated,iOS 18 / iPhone
+UPI100106,2026-06-11,arjun@fakepay,TravelGo,11888.18,FAILED,Merchant payment,iOS 18 / iPhone
+UPI100107,2026-09-05,anaya@fakepay,Mobile Recharge,12208.64,PENDING,Payment completed,iOS 18 / iPhone
+UPI100108,2026-06-01,kabir@fakepay,City Utilities,2279.94,SUCCESS,Refund initiated,Android 14 / OnePlus
+UPI100109,2026-03-06,anaya@fakepay,FreshMart,12179.84,PENDING,Refund initiated,iOS 18 / iPhone
+UPI100110,2026-09-09,arjun@fakepay,FreshMart,7194.97,REFUNDED,Order settlement,Web / Chrome
+UPI100111,2026-06-24,meera@fakepay,FreshMart,3189.62,REFUNDED,Payment completed,Android 14 / Pixel
+UPI100112,2026-07-25,rohan@fakepay,Metro Fuel,7231.8,SUCCESS,Merchant payment,iOS 18 / iPhone
+UPI100113,2026-10-16,anaya@fakepay,Metro Fuel,12424.25,SUCCESS,Utility payment,Web / Chrome
+UPI100114,2026-04-26,isha@fakepay,StyleHub,11360.42,PENDING,Payment pending,Android 14 / OnePlus
+UPI100115,2026-08-08,anaya@fakepay,Mobile Recharge,7779.9,SUCCESS,Payment pending,iOS 18 / iPhone
+UPI100116,2026-04-19,anaya@fakepay,Metro Fuel,,FAILED,Merchant payment,iOS 18 / iPhone
+UPI100117,2026-10-10,arjun@fakepay,Cafe Orbit,,SUCCESS,Order settlement,Web / Chrome
+UPI100118,2026-08-29,anaya@fakepay,FreshMart,,FAILED,UPI transfer,iOS 17 / iPhone
+UPI100119,2026-05-25,rohan@fakepay,Metro Fuel,,FAILED,UPI transfer,iOS 17 / iPhone
+UPI100120,2026-04-12,isha@fakepay,Metro Fuel,,FAILED,Refund initiated,iOS 18 / iPhone
+UPI100121,2026-05-17,meera@fakepay,Metro Fuel,,SUCCESS,Merchant payment,Android 13 / Samsung
+UPI100122,2026-10-19,anaya@fakepay,StyleHub,,SUCCESS,Order settlement,iOS 17 / iPhone
+UPI100123,2026-06-05,isha@fakepay,BookNest,,REFUNDED,Order settlement,Android 14 / Pixel
+UPI100124,2026-01-21,isha@fakepay,City Utilities,,PENDING,Payment completed,Android 14 / Pixel
+UPI100125,2026-04-28,riya@fakepay,BookNest,,SUCCESS,Payment pending,iOS 18 / iPhone
+UPI100126,2026-08-29,rohan@fakepay,BookNest,N/A,FAILED,Utility payment,Web / Chrome
+UPI100127,2026-09-09,arjun@fakepay,StyleHub,N/A,PENDING,Order settlement,Android 13 / Samsung
+UPI100128,2026-06-14,arjun@fakepay,Cafe Orbit,N/A,PENDING,Order settlement,iOS 17 / iPhone
+UPI100129,2026-09-11,anaya@fakepay,FoodDash,N/A,SUCCESS,Order settlement,Android 14 / Pixel
+UPI100130,2026-06-11,anaya@fakepay,City Utilities,N/A,SUCCESS,Payment pending,Web / Chrome
+UPI100003,2026-04-30,riya@fakepay,TravelGo,2521.52,REFUNDED,Merchant payment,Web / Chrome
+UPI100009,2026-08-21,dev@fakepay,Cafe Orbit,4655.6,FAILED,Refund initiated,Android 13 / Samsung
+UPI100016,2026-03-23,isha@fakepay,Mobile Recharge,836.24,REFUNDED,Utility payment,Web / Chrome
+UPI100022,2026-05-03,riya@fakepay,Quick Pharmacy,10980.61,SUCCESS,Payment completed,iOS 17 / iPhone
+UPI100030,2026-10-23,rohan@fakepay,Quick Pharmacy,9817.43,REFUNDED,Merchant payment,Android 14 / Pixel
+UPI100035,2026-02-20,riya@fakepay,TravelGo,10457.72,SUCCESS,Payment pending,iOS 18 / iPhone
+UPI100043,2026-06-10,kabir@fakepay,BookNest,4974.51,PENDING,Order settlement,Android 13 / Samsung
+UPI100058,2026-06-29,anaya@fakepay,Quick Pharmacy,2821.51,FAILED,Order settlement,Android 13 / Samsung
+UPI100064,2026-02-05,dev@fakepay,Mobile Recharge,3954.82,SUCCESS,Refund initiated,Android 13 / Samsung
+UPI100079,2026-04-29,isha@fakepay,Cafe Orbit,8843.45,SUCCESS,Order settlement,Web / Chrome
+UPI100092,2026-07-12,isha@fakepay,Quick Pharmacy,991.54,FAILED,Payment completed,iOS 17 / iPhone
+UPI100109,2026-03-06,anaya@fakepay,FreshMart,12179.84,PENDING,Refund initiated,iOS 18 / iPhone
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

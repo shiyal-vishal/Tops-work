@@ -1,0 +1,121 @@
+﻿applicant_ref,first_name,last_name,application_date,loan_amount_inr,branch,employment
+LN0001|Rajkot|NA,Arjun,Trivedi,05/03/2025,335000,Rajkot,salaried
+LN0002|Ahmedabad|Self Employed,Kabir,Reddy,07/01/2025,110000,,Self Employed
+LN0003|Surat|Self Employed,Kunal,Gandhi,10/01/2025,750000,,NA
+LN0004|Vadodara|salaried,Aadhya,Joshi,13/01/2025,675000,,salaried
+LN0005|Bhavnagar|Salaried,Sara,Verma,16/01/2025,620000,,Self Employed
+LN0006|Jamnagar|Salaried,Riya,Kapoor,19/01/2025,405000,,NA
+LN0007|Gandhinagar|NA,Vivaan,Desai,22/01/2025,310000,,Salaried
+LN0008|Junagadh|Self Employed,Reyansh,Sharma,25/01/2025,1445000,,Self Employed
+LN0009|Anand|Self Employed,Rohan,Singh,28/01/2025,270000,,NA
+LN0010|Morbi|salaried,Anaya,Mehta,31/01/2025,1130000,,Salaried
+LN0011|Nadiad|Salaried,Myra,Parmar,03/02/2025,130000,Ahmedabad,salaried
+LN0012|Porbandar|Salaried,Kiara,Khan,06/02/2025,125000,,NA
+LN0013|Rajkot|NA,Nisha,Shah,09/02/2025,285000,,Salaried
+LN0014|Ahmedabad|Self Employed,Aditya,Raval,12/02/2025,605000,,salaried
+LN0015|Surat|Self Employed,Ishaan,Iyer,15/02/2025,645000,,Self Employed
+LN0016|Vadodara|salaried,Dhruv,Patel,18/02/2025,1340000,,Salaried
+LN0017|Bhavnagar|Salaried,Diya,Trivedi,21/02/2025,115000,,salaried
+LN0018|Jamnagar|Salaried,Ira,Reddy,24/02/2025,1485000,,Self Employed
+LN0019|Gandhinagar|NA,Meera,Gandhi,27/02/2025,555000,,NA
+LN0020|Junagadh|Self Employed,Aarav,Joshi,02/03/2025,1445000,,salaried
+LN0021|Anand|Self Employed,Arjun,Verma,05/03/2025,1120000,Surat,Self Employed
+LN0022|Morbi|salaried,Kabir,Kapoor,08/03/2025,610000,,NA
+LN0023|Nadiad|Salaried,Kunal,Desai,11/03/2025,1195000,,Salaried
+LN0024|Porbandar|Salaried,Aadhya,Sharma,14/03/2025,760000,,Self Employed
+LN0025|Rajkot|NA,Sara,Singh,17/03/2025,65000,,NA
+LN0026|Ahmedabad|Self Employed,Riya,Mehta,20/03/2025,455000,,Salaried
+LN0027|Surat|Self Employed,Vivaan,Parmar,23/03/2025,1130000,,salaried
+LN0028|Vadodara|salaried,Reyansh,Khan,26/03/2025,920000,,NA
+LN0029|Bhavnagar|Salaried,Rohan,Shah,29/03/2025,760000,,Salaried
+LN0030|Jamnagar|Salaried,Anaya,Raval,01/04/2025,445000,,salaried
+LN0031|Gandhinagar|NA,Myra,Iyer,04/04/2025,600000,Vadodara,Self Employed
+LN0032|Junagadh|Self Employed,Kiara,Patel,07/04/2025,910000,,Salaried
+LN0033|Anand|Self Employed,Nisha,Trivedi,10/04/2025,310000,,salaried
+LN0034|Morbi|salaried,Aditya,Reddy,13/04/2025,285000,,Self Employed
+LN0035|Nadiad|Salaried,Ishaan,Gandhi,16/04/2025,1020000,,NA
+LN0036|Porbandar|Salaried,Dhruv,Joshi,19/04/2025,295000,,salaried
+LN0037|Rajkot|NA,Diya,Verma,22/04/2025,965000,,Self Employed
+LN0038|Ahmedabad|Self Employed,Ira,Kapoor,25/04/2025,930000,,NA
+LN0039|Surat|Self Employed,Meera,Desai,28/04/2025,725000,,Salaried
+LN0040|Vadodara|salaried,Aarav,Sharma,01/05/2025,160000,,Self Employed
+LN0041|Bhavnagar|Salaried,Arjun,Singh,04/05/2025,1225000,Bhavnagar,NA
+LN0042|Jamnagar|Salaried,Kabir,Mehta,07/05/2025,1420000,,Salaried
+LN0043|Gandhinagar|NA,Kunal,Parmar,10/05/2025,365000,,salaried
+LN0044|Junagadh|Self Employed,Aadhya,Khan,13/05/2025,1015000,,NA
+LN0045|Anand|Self Employed,Sara,Shah,16/05/2025,250000,,Salaried
+LN0046|Morbi|salaried,Riya,Raval,19/05/2025,1460000,,salaried
+LN0047|Nadiad|Salaried,Vivaan,Iyer,22/05/2025,800000,,Self Employed
+LN0048|Porbandar|Salaried,Reyansh,Patel,25/05/2025,975000,,Salaried
+LN0049|Rajkot|NA,Rohan,Trivedi,28/05/2025,540000,,salaried
+LN0050|Ahmedabad|Self Employed,Anaya,Reddy,01/01/2025,225000,,Self Employed
+LN0051|Surat|Self Employed,Myra,Gandhi,04/01/2025,165000,Jamnagar,NA
+LN0052|Vadodara|salaried,Kiara,Joshi,07/01/2025,630000,,salaried
+LN0053|Bhavnagar|Salaried,Nisha,Verma,10/01/2025,790000,,Self Employed
+LN0054|Jamnagar|Salaried,Aditya,Kapoor,13/01/2025,250000,,NA
+LN0055|Gandhinagar|NA,Ishaan,Desai,16/01/2025,645000,,Salaried
+LN0056|Junagadh|Self Employed,Dhruv,Sharma,19/01/2025,305000,,Self Employed
+LN0057|Anand|Self Employed,Diya,Singh,22/01/2025,1020000,,NA
+LN0058|Morbi|salaried,Ira,Mehta,25/01/2025,760000,,Salaried
+LN0059|Nadiad|Salaried,Meera,Parmar,28/01/2025,1210000,,salaried
+LN0060|Porbandar|Salaried,Aarav,Khan,31/01/2025,980000,,NA
+LN0061|Rajkot|NA,Arjun,Shah,03/02/2025,465000,Gandhinagar,Salaried
+LN0062|Ahmedabad|Self Employed,Kabir,Raval,06/02/2025,995000,,salaried
+LN0063|Surat|Self Employed,Kunal,Iyer,09/02/2025,955000,,Self Employed
+LN0064|Vadodara|salaried,Aadhya,Patel,12/02/2025,585000,,Salaried
+LN0065|Bhavnagar|Salaried,Sara,Trivedi,15/02/2025,730000,,salaried
+LN0066|Jamnagar|Salaried,Riya,Reddy,18/02/2025,230000,,Self Employed
+LN0067|Gandhinagar|NA,Vivaan,Gandhi,21/02/2025,485000,,NA
+LN0068|Junagadh|Self Employed,Reyansh,Joshi,24/02/2025,1415000,,salaried
+LN0069|Anand|Self Employed,Rohan,Verma,27/02/2025,675000,,Self Employed
+LN0070|Morbi|salaried,Anaya,Kapoor,02/03/2025,465000,,NA
+LN0071|Nadiad|Salaried,Myra,Desai,05/03/2025,1230000,Junagadh,Salaried
+LN0072|Porbandar|Salaried,Kiara,Sharma,08/03/2025,1020000,,Self Employed
+LN0073|Rajkot|NA,Nisha,Singh,11/03/2025,740000,,NA
+LN0074|Ahmedabad|Self Employed,Aditya,Mehta,14/03/2025,1475000,,Salaried
+LN0075|Surat|Self Employed,Ishaan,Parmar,17/03/2025,610000,,salaried
+LN0076|Vadodara|salaried,Dhruv,Khan,20/03/2025,880000,,NA
+LN0077|Bhavnagar|Salaried,Diya,Shah,23/03/2025,190000,,Salaried
+LN0078|Jamnagar|Salaried,Ira,Raval,26/03/2025,635000,,salaried
+LN0079|Gandhinagar|NA,Meera,Iyer,29/03/2025,130000,,Self Employed
+LN0080|Junagadh|Self Employed,Aarav,Patel,01/04/2025,855000,,Salaried
+LN0081|Anand|Self Employed,Arjun,Trivedi,04/04/2025,1075000,Anand,salaried
+LN0082|Morbi|salaried,Kabir,Reddy,07/04/2025,735000,,Self Employed
+LN0083|Nadiad|Salaried,Kunal,Gandhi,10/04/2025,215000,,NA
+LN0084|Porbandar|Salaried,Aadhya,Joshi,13/04/2025,590000,,salaried
+LN0085|Rajkot|NA,Sara,Verma,16/04/2025,1500000,,Self Employed
+LN0086|Ahmedabad|Self Employed,Riya,Kapoor,19/04/2025,855000,,NA
+LN0087|Surat|Self Employed,Vivaan,Desai,22/04/2025,590000,,Salaried
+LN0088|Vadodara|salaried,Reyansh,Sharma,25/04/2025,1325000,,Self Employed
+LN0089|Bhavnagar|Salaried,Rohan,Singh,28/04/2025,1060000,,NA
+LN0090|Jamnagar|Salaried,Anaya,Mehta,01/05/2025,1220000,,Salaried
+LN0091|Gandhinagar|NA,Myra,Parmar,04/05/2025,415000,Morbi,salaried
+LN0092|Junagadh|Self Employed,Kiara,Khan,07/05/2025,725000,,NA
+LN0093|Anand|Self Employed,Nisha,Shah,10/05/2025,405000,,Salaried
+LN0094|Morbi|salaried,Aditya,Raval,13/05/2025,680000,,salaried
+LN0095|Nadiad|Salaried,Ishaan,Iyer,16/05/2025,1485000,,Self Employed
+LN0096|Porbandar|Salaried,Dhruv,Patel,19/05/2025,1425000,,Salaried
+LN0097|Rajkot|NA,Diya,Trivedi,22/05/2025,720000,,salaried
+LN0098|Ahmedabad|Self Employed,Ira,Reddy,25/05/2025,1145000,,Self Employed
+LN0099|Surat|Self Employed,Meera,Gandhi,28/05/2025,1070000,,NA
+LN0100|Vadodara|salaried,Aarav,Joshi,01/01/2025,975000,,salaried
+LN0101|Bhavnagar|Salaried,Arjun,Verma,04/01/2025,610000,Nadiad,Self Employed
+LN0102|Jamnagar|Salaried,Kabir,Kapoor,07/01/2025,400000,,NA
+LN0103|Gandhinagar|NA,Kunal,Desai,10/01/2025,1350000,,Salaried
+LN0104|Junagadh|Self Employed,Aadhya,Sharma,13/01/2025,1310000,,Self Employed
+LN0105|Anand|Self Employed,Sara,Singh,16/01/2025,280000,,NA
+LN0106|Morbi|salaried,Riya,Mehta,19/01/2025,170000,,Salaried
+LN0107|Nadiad|Salaried,Vivaan,Parmar,22/01/2025,330000,,salaried
+LN0108|Porbandar|Salaried,Reyansh,Khan,25/01/2025,440000,,NA
+LN0109|Rajkot|NA,Rohan,Shah,28/01/2025,455000,,Salaried
+LN0110|Ahmedabad|Self Employed,Anaya,Raval,31/01/2025,1130000,,salaried
+LN0111|Surat|Self Employed,Myra,Iyer,03/02/2025,210000,Porbandar,Self Employed
+LN0112|Vadodara|salaried,Kiara,Patel,06/02/2025,1035000,,Salaried
+LN0113|Bhavnagar|Salaried,Nisha,Trivedi,09/02/2025,1025000,,salaried
+LN0114|Jamnagar|Salaried,Aditya,Reddy,12/02/2025,1245000,,Self Employed
+LN0115|Gandhinagar|NA,Ishaan,Gandhi,15/02/2025,1400000,,NA
+LN0116|Junagadh|Self Employed,Dhruv,Joshi,18/02/2025,690000,,salaried
+LN0117|Anand|Self Employed,Diya,Verma,21/02/2025,1465000,,Self Employed
+LN0118|Morbi|salaried,Ira,Kapoor,24/02/2025,75000,,NA
+LN0119|Nadiad|Salaried,Meera,Desai,27/02/2025,340000,,Salaried
+LN0120|Porbandar|Salaried,Aarav,Sharma,02/03/2025,1420000,,Self Employed
